@@ -1086,6 +1086,8 @@ Neuroscience
         
 * |OK_ICON| `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
         
+* |OK_ICON| `DANDI <https://dandiarchive.org/>`_
+
 * |OK_ICON| `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
         
 * |OK_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_
